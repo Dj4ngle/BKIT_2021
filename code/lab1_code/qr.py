@@ -1,5 +1,7 @@
 import sys
 import math
+import os
+
 
 def get_coef(index, prompt):
     '''
@@ -107,3 +109,5 @@ if __name__ == "__main__":
 
 # Пример запуска
 # qr.py 1 0 -4
+
+os.system("pause")
