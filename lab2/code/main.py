@@ -6,7 +6,6 @@ import pandas as pd
 
 N = 20
 
-
 def main():
 
 
