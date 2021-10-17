@@ -13,5 +13,5 @@
 
 ### 3. "Функциональные возможности языка Python"
 
-* [Код](https://vk.com/danilaovchinnikov4)
-* [Отчет](https://vk.com/danilaovchinnikov4)
+* [Код](https://github.com/junglekiller4/BKIT_2021/tree/main/lab3/code)
+* [Отчет](https://github.com/junglekiller4/BKIT_2021/blob/main/lab3/report.pdf)
