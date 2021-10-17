@@ -4,12 +4,12 @@
 ### 1. "Основные конструкции языка Python"
 
 * [Код](https://github.com/junglekiller4/BKIT_2021/tree/main/lab1/code)
-* [Отчет](https://github.com/junglekiller4/BKIT_2021/tree/main/lab1)
+* [Отчет](https://github.com/junglekiller4/BKIT_2021/tree/main/lab1/report.pdf)
 
 ### 2. "Объектно-ориентированные возможности языка Python"
 
 * [Код](https://github.com/junglekiller4/BKIT_2021/tree/main/lab2/code)
-* [Отчет](https://github.com/junglekiller4/BKIT_2021/tree/main/lab2)
+* [Отчет](https://github.com/junglekiller4/BKIT_2021/tree/main/lab2/report.pdf)
 
 ### 3. "Функциональные возможности языка Python"
 
