@@ -1,5 +1,5 @@
 import unittest
-from main import Book, Library, BooksL, task_1, task_2, task_3
+from main import *
 
 class Test(unittest.TestCase):
     def setUp(self):
